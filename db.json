@@ -1,5 +1,5 @@
 {
-  "mobil" [{"id":1,"name":"IS-F","category":"Lexus"},
+  "mobil" :[{"id":1,"name":"IS-F","category":"Lexus"},
           {"id":2,"name":"Crown Victoria","category":"Ford"},
           {"id":3,"name":"911","category":"Porsche"},
           {"id":4,"name":"Impala","category":"Chevrolet"},
