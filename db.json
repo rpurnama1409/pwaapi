@@ -18,15 +18,5 @@
           {"id":17,"name":"Roadmaster","category":"Buick"},
           {"id":18,"name":"A6","category":"Audi"},
           {"id":19,"name":"Exige","category":"Lotus"},
-          {"id":20,"name":"Highlander","category":"Toyota"},
-          {"id":21,"name":"Corvette","category":"Chevrolet"},
-          {"id":22,"name":"Lancer","category":"Mitsubishi"},
-          {"id":23,"name":"Jetta","category":"Volkswagen"},
-          {"id":24,"name":"525","category":"BMW"},
-          {"id":25,"name":"Sierra 1500","category":"GMC"},
-          {"id":26,"name":"Millenia","category":"Mazda"},
-          {"id":27,"name":"CTS-V","category":"Cadillac"},
-          {"id":28,"name":"SRX","category":"Cadillac"},
-          {"id":29,"name":"Camaro","category":"Chevrolet"},
-          {"id":30,"name":"VehiCROSS","category":"Isuzu"}]
+          {"id":20,"name":"Highlander","category":"Toyota"}]
 }
